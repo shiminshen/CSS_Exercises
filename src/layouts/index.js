@@ -41,6 +41,9 @@ const TemplateWrapper = ({ children }) =>
         { name: 'description', content: 'CSS Exercisies' },
         { name: 'keywords', content: 'CSS' },
       ]}
+      script={[
+        { src: 'https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js' }
+      ]}
     />
     <Header />
     <div
