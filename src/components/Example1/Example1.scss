@@ -1,0 +1,22 @@
+.grid-container-1 {
+  display: grid;
+  height: 100vh;
+  width: 100%;
+  grid-template-columns: 200px 0.4fr auto;
+  grid-template-rows: 25% 100px auto;
+  .item-1 {
+    background-color: red;
+  }
+  .item-2 {
+    background-color: green;
+  }
+  .item-3 {
+    background-color: blue;
+  }
+}
+
+.grid-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
