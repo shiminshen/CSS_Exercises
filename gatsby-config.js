@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: 'CSS_Exercises',
   siteMetadata: {
     title: `Gatsby Default Starter`,
   },
