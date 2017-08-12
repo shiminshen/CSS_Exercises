@@ -7,7 +7,7 @@ class Example1 extends Component {
   render() {
     return (
       <div>
-        <h3>Set Area Size</h3>
+        <h3>Set Grid by GridLine</h3>
         <div className='grid-container-2'>
           <div className="grid-item item-2-1">Column1 to end</div>
           <div className="grid-item item-2-2">Column2 to end</div>
