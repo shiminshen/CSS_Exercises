@@ -17,7 +17,7 @@ class Example1 extends Component {
       </div>
 
       );
-        }
-        }
+  }
+}
 
-        export default Example1;
+export default Example1;
